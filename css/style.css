@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-family:fantasy;
+    font-family:sans-serif;
     font-stretch: expanded;
 }
 body {
@@ -12,7 +12,7 @@ h1 {
     font-family: monospace;
 }
 section {
-  word-break: break-all;
+
     border: 1px solid  #006400;
     background-color: #808000;
     margin: 30px;
